@@ -7,6 +7,7 @@ import TailwindComponent from './TailwindComponent';
 function App() {
   return (
     <>
+      <p>CD test 입니다.. :)</p>
       <Button1 />
       <Button2 />
       <StyledComponent />
